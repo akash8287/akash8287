@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash8287" alt="akash8287" /></a> </p>
 
-- 🔭 I’m currently working on Django [Erezlife](erezlife.com)
+- 🔭 I’m currently working on Django [Erezlife]([erezlife.com](https://erezlife.com/))
 
 - 🌱 I’m currently learning Data Science **Statistics**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/akash8287)
 
 - 📫 How to reach me **akashair357@gmail.com**
 
