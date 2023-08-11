@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Mittal</h1>
-<h3 align="center">I'm a Python developer and currently working on Django</h3>
+<h3 align="center">I'm a Python Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash8287&label=Profile%20views&color=0e75b6&style=flat" alt="akash8287" /> </p>
 
