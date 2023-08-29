@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on Django and other Python frameworks
 
-- 🌱 I’m currently learning Data Science **Statistics**
-
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/akash8287)
 
 - 📫 How to reach me **akashair357@gmail.com**
